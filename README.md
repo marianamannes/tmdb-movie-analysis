@@ -8,4 +8,4 @@ The dataset [Kaggle: TMDb Movies Dataset](https://www.kaggle.com/datasets/juzers
 - **Question #4**: which director produces the highest revenue movies? 
 - **Question #5**: what kind of properties are associated with movies that have high revenues? 
 
-View my solution here.
+View my solution [here](https://github.com/marianamannes/tmdb-movie-analysis/blob/main/tmdb-movie-analysis.ipynb).
