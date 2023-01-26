@@ -1,4 +1,4 @@
-# TMDB Movie Analysis
+# 📽️ TMDB Movie Analysis
 
 The dataset [Kaggle: TMDb Movies Dataset](https://www.kaggle.com/datasets/juzershakir/tmdb-movies-dataset) contains information about 10k movies collected from The Movie Database (TMDb), including user ratings and revenue. In this project, my goal was to answer some case study questions about the dataset through the Python language:
 
